@@ -1,4 +1,4 @@
-# fifo UVM project
+# SPI UVM project
 # Overview
 This project verifies an SPI (Serial Peripheral Interface) slave module integrated with internal RAM using the Universal Verification Methodology (UVM) in SystemVerilog. The goal is to validate the data integrity and control logic of the SPI slave and RAM through a wrapper interface, simulating a variety of protocol-level and memory-level scenarios.
 
@@ -44,5 +44,6 @@ Edge Cases: Tests scenarios like mid-transaction resets, back-to-back transactio
 Transaction Consistency: Compares command/data integrity between input and memory content.
 
 # uvm_testbench
-![image](https://github.com/user-attachments/assets/7e94e21e-6c75-467a-bf3f-fe50fe86171f)
+![ChatGPT Image May 6, 2025, 10_08_02 PM](https://github.com/user-attachments/assets/969884d8-f71f-428f-be3b-f4367dd96fd4)
+
 
