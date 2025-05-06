@@ -1,5 +1,4 @@
 slave_interface.sv
-sva.sv
 slave_confg.sv
 seq_item.sv
 reset_seq.sv
